@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">android-lesson6</string>
+    <string-array name="gsmarena_urls">
+        <item>http://www.gsmarena.com/nokia_216-8343.php</item>
+        <item>http://www.gsmarena.com/samsung_galaxy_s8-8161.php</item>
+        <item>http://www.gsmarena.com/apple_iphone_6-6378.php</item>
+        <item>http://www.gsmarena.com/samsung_galaxy_j7_(2016)-7870.php</item>
+        <item>http://www.gsmarena.com/xiaomi_mi_6-8507.php</item>
+    </string-array>
+    <string-array name="phones">
+        <item>NOKIA 216</item>
+        <item>Samsung Galaxy S8</item>
+        <item>Apple iPhone 6</item>
+        <item>Samsung Galaxy J7</item>
+        <item>Xiaomi Mi 6</item>
+    </string-array>
+    <string name="play">Alive?</string>
+    <string name="stop">Dead</string>
+</resources>
